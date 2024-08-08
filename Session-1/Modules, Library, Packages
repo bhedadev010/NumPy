@@ -1,0 +1,42 @@
+1) What are python modules, library and packages.
+
+Ans) Modular programming refers to the process of breaking a large unbind programming task into separate smaller more manageable sub task on module.
+     Individual modules can be collab together like building block to create large application.
+     There are several advantages of modular programming:
+
+     i) Simplicity: Rather than focusing on the entire problem on hand, a module focuses on one relatively small portion of the problem.
+
+    ii) Maintainability : Modules are designed so that they enforce logical boundaries between different problem domain.
+
+   iii) Reusability : Functionality defines in a single module, can be easily reused by other part of programs.
+
+
+2) Python Modules
+
+Ans) Modules are predefined files that contain python code which shows the basic functionality of class methods, variables.
+     It consist of different function class in a group of files inside a directory.
+
+     Modules can also be turned into library, these are basically predefined methods that can be used to make code more efficient and reduce efforts.
+     Modules line the code and reduce the repetition of function frequently used in the code thus makes it easy to understand.
+     Modules content are accessed with the import statement.
+
+     A library is a collection of modules but the terms are often use interchangable specially since many library only consist of single module.
+
+     Ex of popular pyhton library:
+     -os  -moth  -time  -NumPy  -SciPy  -Pandas  -Matplotlib  -seaborn
+
+
+3) NumPy
+
+Ans) NumPy is a python package, it stands for Numeric Python. It is a library consisting of multi dimensional array, objects and collection of routines for processing of array.
+     NumPy package is a work of data analytics, machine learning, etc.
+
+     Why NumPy?
+
+     NumPy data structure perform better in:
+
+     Memory: Takes up less space
+
+     Performance: Need for speed and are faster than list.
+
+     Functionality: SciPy and NumPy have optimized functions which are built in.
