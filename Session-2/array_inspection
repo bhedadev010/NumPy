@@ -1,0 +1,11 @@
+A NumPy array has following attributes:
+
+    i) ndarray.shape = This returns a tuple consisting of array dimension/shape and can be used to resize array.
+
+   ii) ndarray.ndim = This returns the number of dimension of array.
+
+  iii) ndarray.size = This returns the total number of elements in the array.
+
+   iv) ndarray.dtype = This returns the datatype of the array.
+
+    v) ndarray.astype =  This changes the datatype of an array.
