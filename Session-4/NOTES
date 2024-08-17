@@ -1,0 +1,28 @@
+i) nditer = Iterating means going through elements one by one.
+
+ii) concatenate = Joining means putting contents of two or more arrays in a single array.
+                  We pass a sequence of arrays that we want to join to the concatenate()
+                  function, along with the axis. If axis is not explicitly passed, it is taken as 0.
+
+iii) hstack = NumPy provides a helper function: hstack() to stack along rows.
+
+iv) vstack = NumPy provides a helper function: vstack()  to stack along columns.
+
+v) dstack = NumPy provides a helper function: dstack() to stack along height,
+            which is the same as depth.
+
+vi) array_split = -Splitting is reverse operation of Joining.
+                  -Joining merges multiple arrays into one and Splitting breaks one array into multiple.
+                  -We use array_split() for splitting arrays, we pass it the array we want to split
+                   and the number of splits.
+                  -Applicable in 2D array also
+                  -Note: Similar alternates to hstack() ,vstack() and dstack() are available
+                         as hsplit() ,vsplit() and dsplit().
+
+vii) where = You can search an array for a certain value, and return the indexes that get a match.
+             To search an array, use the where() method.
+
+viii) searchsorted = There is a method called searchsorted() which performs a binary search
+                     in the array, and returns the index where the specified value would be
+                     inserted to maintain the search order.
+                    -Works on binary sorting principle.
