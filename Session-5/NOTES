@@ -1,0 +1,26 @@
+i) np.round() = is a mathematical function that rounds an array to the given number of decimals.
+
+ii) np.prod/sum() = returns the sum/prod of the elements according to the specified axis.
+               > axis 0 => column
+               > axis 1 => row
+
+iii) np.max/min()
+
+iv) np.mean/median()
+
+v) np.std() = Compute the standard deviation of the given data (array elements)
+                 along the specified axis.
+
+vi) np.var() = Compute the variance of the given data (array elements) along the specified axis.
+
+vii) np.lcm/gcd(v1,v2)
+
+viii) np.sin/cos/tan()
+
+ix) np.deg2rad/rad2deg() = By default all of the trigonometric functions take radians as parameters
+                           but we can convert radians to degrees and vice versa as well in NumPy.
+
+x) np.arcsin/arccos/arctan() = Finding angles from values of sine, cos, tan.
+                               E.g. sin, cos and tan inverse (arcsin, arccos, arctan).
+
+xi) np.hypot(base, perp) = Finding hypotenues using pythagoras theorem in NumPy.
