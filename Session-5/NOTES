@@ -24,3 +24,5 @@ x) np.arcsin/arccos/arctan() = Finding angles from values of sine, cos, tan.
                                E.g. sin, cos and tan inverse (arcsin, arccos, arctan).
 
 xi) np.hypot(base, perp) = Finding hypotenues using pythagoras theorem in NumPy.
+
+xii) np.sinh/cosh/tanh()
