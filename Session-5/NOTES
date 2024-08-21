@@ -1,3 +1,6 @@
+IMP : np.ravel() = unwraps any array into a 1d array
+
+
 i) np.round() = is a mathematical function that rounds an array to the given number of decimals.
 
 ii) np.prod/sum() = returns the sum/prod of the elements according to the specified axis.
@@ -26,3 +29,4 @@ x) np.arcsin/arccos/arctan() = Finding angles from values of sine, cos, tan.
 xi) np.hypot(base, perp) = Finding hypotenues using pythagoras theorem in NumPy.
 
 xii) np.sinh/cosh/tanh()
+
