@@ -1,0 +1,9 @@
+BROAD CASTING = The term broadcasting describes how NumPy treats array with different shapes
+                during arithmetic operations.
+                The smaller array is 'broadcast' across the larger array so they have compatible
+                shapes.
+
+RULES:
+      i) MAKE TWO ARRAY HAVE SAME NUMBER OF DIMENSIONS
+
+      ii) MAKE EACH DIMENSION OF TWO ARRAYS THE SAME SIZE
