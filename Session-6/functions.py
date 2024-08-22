@@ -111,3 +111,13 @@ print(np.setxor1d(m,n))
 #in1d find if present
 
 print(m[np.in1d(m,5)])
+
+#used to Clip (limit) the values in an array.
+
+a = np.array([10, 30, 13, 38, 87, 59, 30, 92, 74, 11, 18, 89, 72, 30, 94])
+print(np.clip(a,a_min=25,a_max=75))
+
+#repeat elements
+
+x = np.array([[1,2],[3,4]])
+print(np.repeat(x, 2))

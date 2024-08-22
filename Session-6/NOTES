@@ -52,3 +52,8 @@ Set functions =
                -np.in1d
 
 np.clip = numpy.clip() function is used to Clip (limit) the values in an array.
+
+np.repeat = Repeat each element of an array after themselves
+            Can be repeated according to axis according to axis also
+
+last left
