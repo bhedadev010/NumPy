@@ -1,0 +1,54 @@
+np.sort = Return a sorted copy of an array.
+          Can be sorted according to axis also
+
+np.append = The numpy.append() appends values along the mentioned axis at the end of the array
+            Can be appended according to axis also
+
+np.concatenate = function concatenate a sequence of arrays along an existing axis.
+
+np.unique = With the help of np.unique() method, we can get the unique values from an
+            array given as parameter in np.unique() method.
+
+np.expand_dims = With the help of Numpy.expand_dims() method, we can get the expanded
+                 dimensions of an array
+
+np.argmax/argmin = The numpy.argmax() function returns indices of the max element of the
+                   array in a particular axis.
+                   Can be found according to axis according to axis also
+
+np.cumsum = function is used when we want to compute the cumulative sum of array
+            elements over a given axis
+            Can be added according to axis according to axis also
+
+np.cumprod = same as cumsum
+
+np.percentile = function used to compute the nth percentile of the given data
+                (array elements) along the specified axis.
+
+np.histogram = Numpy has a built-in numpy.histogram() function which represents the frequency
+               of data distribution in the graphical form.
+
+np.corrcoef = Return Pearson product-moment correlation coefficients.
+
+np.isin = With the help of numpy.isin() method, we can see that one array having values
+          are checked in a different numpy array having different elements with different sizes.
+          - ANSWER CAN BE FOUND IN TWO FORMATS
+
+np.flip = The numpy.flip() function reverses the order of array elements along the specified
+          axis, preserving the shape of the array.
+          Can be flipped according to axis according to axis also
+
+np.put = The numpy.put() function replaces specific elements of an array with given values
+         of p_array. Array indexed works on flattened array.
+
+np.delete = The numpy.delete() function returns a new array with the deletion of sub-arrays
+            along with the mentioned axis.
+
+Set functions =
+               -np.union1d = returns unique eleemnts from both
+               -np.intersect1d = common in both
+               -np.setdiff1d = returns unique elements which are present in a and not in b
+               -np.setxor1d = returns elements which are not present in a and b common
+               -np.in1d
+
+np.clip = numpy.clip() function is used to Clip (limit) the values in an array.
